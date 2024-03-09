@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="numeros_aleatorios">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/numeros_aleatorios.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
